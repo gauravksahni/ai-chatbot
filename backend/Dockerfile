@@ -30,6 +30,6 @@ RUN chmod +x /app/scripts/start.sh
 # Expose the application port
 EXPOSE 8000
 
-# Start the application (you can replace this with actual start command)
+# Start the application 
 
 CMD ["./scripts/start.sh"]
